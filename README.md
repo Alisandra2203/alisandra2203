@@ -1,9 +1,11 @@
 ### Hi there 👋
+ Cursando Sistema de informação
+Cursando Linguagem de programação Java, PHP, C#
+ 
 
-<!--
-**Alisandra2203/alisandra2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
