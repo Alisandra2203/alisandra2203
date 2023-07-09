@@ -1,18 +1,22 @@
-### Hi there 👋
- Cursando Sistema de informação
-Cursando Linguagem de programação Java, PHP, C#
+## Ola! Eu sou a Alisandra123
+
+
+- 🌱 Estudando Sistema de informação
+- 💬 Curso tecnico Linguagem de programação
+- 📫 Email: alissandra_oliveira@hotmail.com
+- 😄 Pronouns: ela/dela
+
+
+
+
+
+
  
 
 
 
 
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
